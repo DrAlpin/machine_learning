@@ -1,6 +1,6 @@
 # machine_learning
 
-Machine learning library for node.js.
+Machine learning library for node.js. (Forked from junku901)
 
 ## Examples
 
